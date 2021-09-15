@@ -1,6 +1,7 @@
 ﻿# coding = 'utf-8'
-# tensorflow version: 2.1_
-# master
+# tensorflow version: 2.1
+# bch1--
+
 
 import tensorflow as tf
 import tensorflow_addons as tfa
